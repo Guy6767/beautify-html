@@ -46,6 +46,15 @@ beautify("light", "blue");
 beautify("dark", "purple");
 ```
 
+**Before**
+
+![Screen Shot 2021-03-25 at 15 58 10](https://user-images.githubusercontent.com/42813496/112494441-b6b1ac80-8d8b-11eb-811c-ac1356f219e2.png)
+
+**After**
+
+![Screen Shot 2021-03-25 at 15 59 09](https://user-images.githubusercontent.com/42813496/112494429-b44f5280-8d8b-11eb-8032-ab9cfb75a694.png)
+![Screen Shot 2021-03-25 at 15 58 58](https://user-images.githubusercontent.com/42813496/112494446-b7e2d980-8d8b-11eb-968c-986536eb39da.png)
+
 ## List of themes and colors
 
 Themes:
