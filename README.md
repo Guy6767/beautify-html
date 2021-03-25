@@ -48,7 +48,7 @@ beautify("dark", "purple");
 
 **Before**
 
-![Screen Shot 2021-03-25 at 15 58 10](https://user-images.githubusercontent.com/42813496/112494441-b6b1ac80-8d8b-11eb-811c-ac1356f219e2.png)
+![Screen Shot 2021-03-25 at 17 10 45](https://user-images.githubusercontent.com/42813496/112496037-18bee180-8d8d-11eb-90d6-a6c736f7d133.png)
 
 **After**
 
