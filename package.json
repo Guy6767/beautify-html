@@ -1,8 +1,8 @@
 {
   "name": "beautify-html",
   "version": "1.0.0",
-  "description": "A simple customizable npm package 📦 to instantily beautify boring HTML documents 🎨.",
-  "main": "index.js",
+  "description": "A simple customisable NPM package 📦   to instantly beautify boring HTML documents 🎨",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,11 @@
     "styling"
   ],
   "author": "Guy Arieli",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Guy6767/beautify-html.git"
+  },
+  "homepage": "https://github.com/Guy6767/beautify-html"
 }

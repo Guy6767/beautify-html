@@ -1,6 +1,6 @@
 # beautify-html 🎨
 
-A simple customizable npm package 📦 to instantily beautify boring HTML documents 🎨.
+A simple customisable NPM package 📦 to instantly beautify boring HTML documents 🎨
 
 # Install
 
